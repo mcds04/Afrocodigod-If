@@ -1,4 +1,4 @@
-'''multiplos = int(input("Diga me un número: ")) # python espera una entradas do usuário
+multiplos = int(input("Diga me un número: ")) # python espera una entradas do usuário
 
 if multiplos % 15 == 0:
     print("FIZZBUZZ")
